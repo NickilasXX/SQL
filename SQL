@@ -1,0 +1,9 @@
+	--select * from alunos
+    --SELECT * from alunos where idade = 16
+    --select * from alunos where idade = 17
+    --select * from alunos where curso = 'Banco de Dados'
+    --select * from alunos where curso = 'Desenvolvimento de Sistemas'
+    --select * from alunos where curso = 'Programação'
+    --select * from alunos where curso = 'Web Design'
+    --select * from alunos where curso = 'Engenharia de Software'
+    select * from alunos where curso = ''
